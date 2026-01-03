@@ -4,7 +4,11 @@ This project is a basic Node.js HTTP server that serves multiple HTML pages, a C
 
 It is made to understand how routing works in core Node.js.
 
- Features
+
+
+
+
+ **Features**
 
 Serves multiple pages:
 
@@ -23,6 +27,8 @@ Redirects after form submission
 Custom 404 error page
 
 Built using pure Node.js
+
+############################
 ...........................
  Project Structure
 project-folder/
@@ -59,13 +65,14 @@ Open browser and go to:
 http://localhost:3000
 
  Available Routes
-URL	Method	Description
-/ or /home	GET	Home page
-/about	GET	About page
-/contact	GET	Contact page
-/style.css	GET	CSS file
-/submitted-data	POST	Form submission
-Any other URL	GET	404 Page
+URL	        Method	 Description
+/ or /home	 GET	 Home page
+/about	         GET	 About page
+/contact	 GET	 Contact page
+/style.css	 GET	 CSS file
+/submitted-data  POST	 Form submission
+Any other URL	 GET	 404 Page
+
  How POST Request Works
 
 When a form is submitted from contact.html:
