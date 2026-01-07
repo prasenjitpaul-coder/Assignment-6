@@ -40,7 +40,8 @@ Built using pure Node.js
 
 ############################
 ...........................
- Project Structure
+
+Project Structure
 project-folder/
 │
 ├── home.html
