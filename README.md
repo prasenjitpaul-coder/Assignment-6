@@ -4,8 +4,11 @@ This project is a basic Node.js HTTP server that serves multiple HTML pages, a C
 
 It is made to understand how routing works in core Node.js.
 
-
-
+ScreenShot!!
+![404](https://github.com/prasenjitpaul-coder/Assignment-6/blob/bc6b32aec17a28f24aa3e5de123181a9aa787f2b/404.html%20-%20Assignment%206%20-%20Visual%20Studio%20Code%201_7_2026%209_51_48%20AM.png)
+!{about}(https://github.com/prasenjitpaul-coder/Assignment-6/blob/bc6b32aec17a28f24aa3e5de123181a9aa787f2b/404.html%20-%20Assignment%206%20-%20Visual%20Studio%20Code%201_7_2026%209_52_10%20AM.png)
+!{contact}(https://github.com/prasenjitpaul-coder/Assignment-6/blob/bc6b32aec17a28f24aa3e5de123181a9aa787f2b/404.html%20-%20Assignment%206%20-%20Visual%20Studio%20Code%201_7_2026%209_52_22%20AM.png)
+!{homw}(https://github.com/prasenjitpaul-coder/Assignment-6/blob/bc6b32aec17a28f24aa3e5de123181a9aa787f2b/404.html%20-%20Assignment%206%20-%20Visual%20Studio%20Code%201_7_2026%209_52_31%20AM.png)
 
 
  **Features**
