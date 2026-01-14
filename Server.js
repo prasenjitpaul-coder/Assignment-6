@@ -20,8 +20,6 @@ if (req.url === "/submitted-data" && req.method === "POST") {
         return;
     }
 
-
-
     if (req.url === "/" || req.url === "/home") {
         filePath = "home.html";
 
@@ -51,9 +49,6 @@ if (req.url === "/submitted-data" && req.method === "POST") {
 
 }
 
-
-
-
 let port = 3000;
 const app = http.createServer(server);
 
@@ -61,3 +56,4 @@ const app = http.createServer(server);
 app.listen(port, () => {
     console.log(`Server running at http://localhost:${port}`);
 });
+
