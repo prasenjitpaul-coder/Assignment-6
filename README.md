@@ -6,7 +6,7 @@ It is made to understand how routing works in core Node.js.
 ## 📸 Screenshots
 
 ### Route & Serve
-![Routes](https://github.com/prasenjitpaul-coder/Assignment-6/blob/311059ac495f86690d222301c85f7087258be417/Server.js)
+![Routes](https://github.com/prasenjitpaul-coder/Assignment-6/blob/594aacb214993dae813b7761cdd63e0a22317e6c/Server.js%20-%20Visual%20Studio%20Code%201_14_2026%206_05_43%20PM.png)
 
 
 ### 🔴 404 Page
