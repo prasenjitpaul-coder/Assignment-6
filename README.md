@@ -19,7 +19,7 @@ It is made to understand how routing works in core Node.js.
 ![Contact](https://github.com/prasenjitpaul-coder/Assignment-6/blob/bc6b32aec17a28f24aa3e5de123181a9aa787f2b/404.html%20-%20Assignment%206%20-%20Visual%20Studio%20Code%201_7_2026%209_52_22%20AM.png)
 
 ### 🏠 Home Page
-![Home](https://github.com/prasenjitpaul-coder/Assignment-6/blob/bc6b32aec17a28f24aa3e5de123181a9aa787f2b/404.html%20-%20Assignment%206%20-%20Visual%20Studio%20Code%201_7_2026%209_52_31%20AM.png)
+![Home](https://github.com/prasenjitpaul-coder/Assignment-6/blob/7ea1f63b50f4d85174d5eeeaba07ca6b35dd63a9/404%20-%20Page%20Not%20Found%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%203_3_2026%2011_15_59%20PM.png)
 
 
  **Features**
